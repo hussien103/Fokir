@@ -1,0 +1,136 @@
+
+
+@media only screen and (max-width:1500px){
+    .about .about-cap, .about .about-image-main {
+        width:49%;
+        margin:0;
+    }
+
+    .about .about-container .about-image-main .about-brdr{
+        border:none;
+        
+    }
+    .about .about-container .about-image-main .about-brdr .about-img{
+       top:0;
+       left:0;
+    }
+    .about .about-image-main .about-img{
+        margin-right:2%;
+    }
+    .feedback-cap{
+
+        width:100%;
+       }
+       .feedback-img{
+        width:100%;
+       }
+       .feedback-img img{
+        width:30%;
+       }
+       .feedback-container{
+        width:80%;
+       }
+       .blog .blog-container{
+        width:90%;
+        
+       }
+}
+@media only screen and (max-width:992px){
+    .about .about-cap, .about .about-image-main {
+        width:49%;
+        margin:0;
+    }
+
+    .about .about-container .about-image-main .about-brdr{
+        border:none;
+        
+    }
+    .about .about-container .about-image-main .about-brdr .about-img{
+       top:0;
+       left:0;
+    }
+    .about .about-image-main .about-img{
+        margin-right:2%;
+    }
+    .services .service-item{
+        width:50%;
+    }
+    .services{
+        height:500px;
+    }
+    .portfolio .portfolio-imgs .portfolio-img{
+        width:50%;
+    }
+    .feedback-cap{
+
+        width:100%;
+       }
+       .feedback-img{
+        width:100%;
+       }
+       .feedback-img img{
+        width:30%;
+       }
+       .feedback-container{
+        width:80%;
+       }
+       .blog .blog-container{
+        width:90%;
+        
+       }
+}
+@media only screen and (max-width:700px){
+    .about .about-cap, .about .about-image-main {
+        width:100%;
+        margin:0;
+    }
+
+    .about .about-container .about-image-main .about-brdr{
+        border:none;
+        
+    }
+    .about .about-container .about-image-main .about-brdr .about-img{
+       top:0;
+       left:0;
+    }
+    .about .about-image-main .about-img{
+        margin-right:2%;
+    }
+    .about .about-container .about-cap ul li {
+        width:100%;
+    }
+    .services .service-item{
+        width:100%;
+
+    }
+    .services{
+        height:700px;
+
+    }
+    .addition{
+        height:600px;
+    }
+    .addition .addition-content .addition-item{
+        width:100%;
+    }
+
+    .portfolio .portfolio-imgs .portfolio-img{
+        width:100%;
+    }
+   .feedback-cap{
+
+    width:100%;
+   }
+   .feedback-img{
+    width:100%;
+   }
+   .feedback-img img{
+    width:30%;
+   }
+   .feedback-container{
+    width:80%;
+   }
+   .blog .blog-item{
+    width:100%;
+   }
+}
